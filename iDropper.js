@@ -255,7 +255,7 @@
 		};
 		$imgPathEl.remove();
 
-	
+
 	/**
 	 * Global dimension setup
 	 */
@@ -277,7 +277,7 @@
 
 	/**
 	 * Color Picker Class
-	 * 
+	 *
 	 * Possible option settings:
 	 * @param 	size 		Integer pixel of the width/height of the square hue/value box
 	 * @param 	onChange 	Function that's triggered when the color selection changes
